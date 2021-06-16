@@ -330,11 +330,21 @@ body{
     padding-left: 118px;
 }
 
-.posticon i:hover{
-     color: rgb(29, 161, 242);
-     cursor: pointer;
-    
-     
+.fa-comment:hover{
+    color:rgb(29, 161, 242);
+    cursor: pointer;
+}
+.fa-retweet:hover{
+    color: green;
+    cursor: pointer;
+}
+.fa-heart:hover{
+    color: rgb(218, 34, 34);
+    cursor: pointer;
+}
+.fa-paper-plane:hover{
+    color: rgb(29, 161, 242);
+    cursor: pointer;
 }
 /* middle section ends */
 
