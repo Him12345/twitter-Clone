@@ -243,7 +243,10 @@ body{
     padding-left:18px;
     padding-top: 10px;
 }
+.parainfo p{
+    font-family: 'Cairo', sans-serif;
 
+}
 .navi{
     border-bottom: 1px solid rgba(128, 128, 128, 0.465);
     height: 50px;
